@@ -130,4 +130,4 @@ Special thanks to the developers and contributors of the various libraries and f
 
 Thanks to the open-source community for providing valuable resources and support.
 Contact
-For any questions or feedback, please contact vishnukrkamat@gmail.com
+For any questions or feedback, please contact riteshkumar01317@gmail.com
